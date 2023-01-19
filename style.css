@@ -158,3 +158,13 @@ button{
     margin: 25px 0px 25px 40px;
    }
 }
+
+@media screen and (max-width: 375px){
+    .all{
+        width: 80vw;
+    }
+
+    img{
+        width: 19vw;
+    }
+}
