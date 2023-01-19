@@ -167,4 +167,8 @@ button{
     img{
         width: 19vw;
     }
+
+    .content{
+        text-align: justify;
+    }
 }
